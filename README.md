@@ -1,4 +1,7 @@
-### Hi there 👋
+```python
+print("Hello world! I'm lazerz4k 👋")
+```
+### Your average python enjoyer.
 
 <!--
 **lazerz4k/lazerz4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
